@@ -87,7 +87,9 @@
 
 - DevDocs
 - Insomnia
+- Postman
 - GIT
+- MySQL Workbench
 
 ### Google Chrome
 
