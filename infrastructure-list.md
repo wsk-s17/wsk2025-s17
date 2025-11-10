@@ -25,7 +25,7 @@
 - multer
 - ejs
 
-## Client Frameworks
+## Client Frameworks/Libraries
 
 ### React JS v19.x
 
@@ -35,15 +35,6 @@
 - react-redux
 - @reduxjs/toolkit
 - zustand
-- tailwindcss
-- @tailwindcss/vite
-- tailwind-merge
-
-### Vue JS v3.5.x
-
-- vue-router
-- axios
-- pinia
 - tailwindcss
 - @tailwindcss/vite
 - tailwind-merge
@@ -58,6 +49,19 @@
 - tailwindcss
 - @tailwindcss/postcss
 - postcss
+
+### Vue JS v3.5.x
+
+- vue-router
+- axios
+- pinia
+- tailwindcss
+- @tailwindcss/vite
+- tailwind-merge
+
+### Nuxt JS v4.2.x
+
+- vue-router
 
 ## IDEAs
 
