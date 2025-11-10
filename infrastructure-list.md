@@ -24,6 +24,7 @@
 - @prisma/client
 - multer
 - ejs
+- jsonwebtoken
 
 ## Client Frameworks/Libraries
 
